@@ -26,12 +26,8 @@
 * **Languages:** Urdu (Native), English (Intermediate)
 
 > "I am passionate about bridging the gap between high-performance backend architecture and advanced AI solutions to solve real-world challenges."
-### 🌐 Connect with Me
-* **Location:** RYK, Pakistan 🇵🇰
-* **Email:** [zeshannaqvi789@gmail.com](mailto:zeshannaqvi789@gmail.com)
-* **Languages:** Urdu (Native), English (Intermediate)
 
-> "I am passionate about building AI-based solutions for real-world problems and continuously improving my technical and development skills."
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esha-ali-499014282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshaali9245@gmail.com) 
