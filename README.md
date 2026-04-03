@@ -1,39 +1,57 @@
+# 👨‍💻 Syed Muhammad Zeeshan
+### Backend Java Developer | AI & Machine Learning Professional
+*Building backend systems and intelligent, data-driven solutions.*
 
-## 👨‍💻 **Syed Muhammad Zeeshan**
-**Backend Java Developer | AI & Machine Learning Professional** *Building backend systems and intelligent, data-driven solutions.*
+---
 
-### 💻 **Technical Expertise**
+### 💻 Technical Expertise
 
 * **Artificial Intelligence:** Proficient in **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 * **Computer Vision & ML Projects:** Developed multiple image-based classification models including **Vanilla Plant Disease Detection**, **Butterfly Species Detection**, and **Sports Category Prediction**. 
 * **Data Analysis:** Skilled in **dataset preprocessing**, exploratory data analysis, and clothing recommendation systems.
 * **Backend Development:** Focused on building scalable server-side applications and REST APIs using **Java** and **Spring Boot**.
 
-### 🛠 **Tools & Technologies**
+### 🛠 Tech Stack
 
-* **Programming:** Java, Python, C++
-* **Backend Frameworks:** Spring Boot, Spring MVC, Hibernate/JPA
-* **AI Frameworks:** TensorFlow, Keras, OpenCV, PyTorch, Scikit-learn
-* **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools:** VS Code, IntelliJ IDEA, Google Colab, Kaggle, Anaconda
-* **Problem Solving:** Solid foundation in **Data Structures & Algorithms (DSA)**.
+**Languages & Backend**
+<nobr>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22"/>
+</nobr>
 
-### 🌐 **Connect with Me**
+**AI & Data Science**
+<nobr>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="22"/>
+</nobr>
 
-* **Location:** Rahim Yar Khan (RYK), Pakistan 🇵🇰
-* **Email:** [zeshannaqvi789@gmail.com](mailto:zeshannaqvi789@gmail.com)
-* **LinkedIn:** [Syed Muhammad Zeeshan](https://www.linkedin.com/in/syed-muhammad-zeeshan-5a1684286/)
-* **Languages:** Urdu (Native), English (Intermediate)
+**Tools & Infrastructure**
+<nobr>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/DSA-Solid_Foundation-blue?style=for-the-badge" height="22"/>
+</nobr>
+
+---
+
+### 🌐 Socials & Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-zeeshan-5a1684286/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeshannaqvi789@gmail.com)
+
+* **📍 Location:** Rahim Yar Khan (RYK), Pakistan 🇵🇰
+
+
+* **🗣 Languages:** Urdu (Native), English (Intermediate)
 
 > "I am passionate about bridging the gap between high-performance backend architecture and advanced AI solutions to solve real-world challenges."
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-zeeshan-5a1684286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeshannaqvi789@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
-
