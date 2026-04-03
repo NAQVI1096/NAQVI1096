@@ -6,12 +6,25 @@
 
 ### 💻 Technical Expertise
 
+
 * **Artificial Intelligence:** Proficient in **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 * **Computer Vision & ML Projects:** Developed multiple image-based classification models including **Vanilla Plant Disease Detection**, **Butterfly Species Detection**, and **Sports Category Prediction**. 
 * **Data Analysis:** Skilled in **dataset preprocessing**, exploratory data analysis, and clothing recommendation systems.
 * **Backend Development:** Focused on building scalable server-side applications and REST APIs using **Java** and **Spring Boot**.
 
+### 🛠 <small>Tools & Technologies</small>
+
+
+* <small>**Programming:** Java, Python, C++</small>
+* <small>**Backend Frameworks:** Spring Boot, Spring MVC, Hibernate/JPA</small>
+* <small>**AI Frameworks:** TensorFlow, Keras, OpenCV, PyTorch, Scikit-learn</small>
+* <small>**Data Science:** Pandas, NumPy, Matplotlib, Seaborn</small>
+* <small>**Tools:** VS Code, IntelliJ IDEA, Google Colab, Kaggle, Anaconda</small>
+* <small>**Problem Solving:** Solid foundation in **Data Structures & Algorithms (DSA)**.</small>
+
+
 ### 🛠 Tech Stack
+
 
 **Languages & Backend**
 <nobr>
