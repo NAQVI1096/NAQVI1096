@@ -11,7 +11,7 @@
 
 ### 🛠 **Tools & Technologies**
 
-* **Programming:** Java, Python, C++, JavaScript
+* **Programming:** Java, Python, C++
 * **Backend Frameworks:** Spring Boot, Spring MVC, Hibernate/JPA
 * **AI Frameworks:** TensorFlow, Keras, OpenCV, PyTorch, Scikit-learn
 * **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
